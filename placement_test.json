@@ -1,0 +1,26 @@
+﻿{
+    "answer":  "Based on the retrieved evidence, the most recent placement report for SVCE Tirupati is the **Mechanical Engineering (ME) report for the academic year **2023â24**, which covers only the Department of Mechanical Engineering.\n\n**Department-specific data (ME, 2023â24):**\n- Total students placed: **35**\n- Average package: **Rs. 3,55,555**\n- Highest package: **Rs. 4,60,000** (Accenture, App Development Associate)\n\nFor the **Department of Information Technology**, the latest available report is for the academic year **2019â20**:\n- Total students placed: **18**\n- Average package: **Rs. 3,68,437**\n- Highest package: **Rs. 4,50,000** (Worksbot Applications, Software Engineer)\n\n**Important note:** The retrieved evidence does **not** contain a college-wide placement report. Therefore, there are no college-wide statistics or a single âlatestâ college-wide package figure to report. The figures above are department-specific only.",
+    "sources":  [
+                    {
+                        "title":  "SVCE_IT_Placements_2016-17.pdf",
+                        "url":  "https://svce.edu.in/images/it/pr/SVCE_IT_Placements_2016-17.pdf"
+                    },
+                    {
+                        "title":  "SVCE_ME_Placements_2023-24.pdf",
+                        "url":  "https://svce.edu.in/files/me/pr/SVCE_ME_Placements_2023-24.pdf"
+                    },
+                    {
+                        "title":  "SVCE_IT_Placements_2019-20.pdf",
+                        "url":  "https://svce.edu.in/images/it/pr/SVCE_IT_Placements_2019-20.pdf"
+                    },
+                    {
+                        "title":  "SVCE_ME_Placements_2020-21_updated.pdf",
+                        "url":  "https://svce.edu.in/files/me/pr/SVCE_ME_Placements_2020-21_updated.pdf"
+                    },
+                    {
+                        "title":  "SVCE_ME_Placements_2022-23_updated.pdf",
+                        "url":  "https://svce.edu.in/files/me/pr/SVCE_ME_Placements_2022-23_updated.pdf"
+                    }
+                ],
+    "mode":  "llm_grounded"
+}

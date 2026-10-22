@@ -1,0 +1,10 @@
+{
+  "doc_id": "10d82db2429270dd7a",
+  "url": "https://svce.edu.in/crt4/4.2.1_link.pdf",
+  "title": "4.2.1_link.pdf",
+  "text": "SRI VENKATESWARA COLLEGE OF ENGINEERING \n(Autonomous) \nKarakambadi Road, Opposite LIC Training Centre, Tirupati – 517 507. \n             Accredited by NBA (B.Tech – CIVIL,EEE,MECH,ECE, CSE and IT) & NAAC with ‘A’ Grade \nApproved by AICTE, New Delhi, Permanently affiliated to JNTUA, Ananthapuram. \n  \n                                                                 \n4.2.1: Library is Automated using Integrated Library Management System (ILMS) \nName of the ILMS Software: NewGenLib, (Open Source -Version: 3.1.1)  \nNature of Automation: Fully Automated   \nYear of automation: NewGenLib (2015)  \n \nSCREEN SHOTS OF LIBRARY AUTOMATION \nNGL Launch Pad \n \n\n \n \n \nNGL Librarian Interface \n \nVisitor In \n \n \n \n \n\n \n \n \nPatron Checking-out the items (Issue) \n \n \nPatron Checking-in the items (Return) \n \n \n \n\n \n \n \nVisitor Out \n \n \nOPAC (Online Public Access Catelog) http://172.17.200.132:8080/newgenlibctxt/ \n \n \n\n \n \n \n \nView Today’s Visitors",
+  "content_type": "application/pdf",
+  "status_code": 200,
+  "collected_at": "2026-10-17T07:18:08Z",
+  "verification_status": "NEEDS_VERIFICATION"
+}
